@@ -5,3 +5,9 @@
 /.vs
 /DesignPatterns/.vs
 /DesignPatterns/DesignPatterns/obj
+/Behavioral/Behavioral.Observer/bin/Debug/net8.0
+/Behavioral/Behavioral.Observer/obj
+/Creational/Creational.Singleton/bin/Debug/net8.0
+/Creational/Creational.Singleton/obj
+/Structural/Structual.Facade/bin/Debug/net8.0
+/Structural/Structual.Facade/obj
