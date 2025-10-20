@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.Observer", "Beha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structual.Facade", "Structural\Structual.Facade\Structual.Facade.csproj", "{4A224901-2C36-4FC5-94B5-BC029BF82673}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.Strategy", "Behavioural.Stratergy\Behavioural.Strategy.csproj", "{E94AC823-40D7-478A-AFB6-FA1D769D95C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.Strategy", "Behavioural.Stratergy\Behavioural.Strategy.csproj", "{E94AC823-40D7-478A-AFB6-FA1D769D95C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Builder", "Creational.Builder\Creational.Builder.csproj", "{3A7E49D6-AA4A-40B0-B519-F242815DB481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Builder", "Creational.Builder\Creational.Builder.csproj", "{3A7E49D6-AA4A-40B0-B519-F242815DB481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural.Adapter", "Structural.Adapter\Structural.Adapter.csproj", "{814BC8F2-3D44-4865-A35E-EA030812B5FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{3A7E49D6-AA4A-40B0-B519-F242815DB481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A7E49D6-AA4A-40B0-B519-F242815DB481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A7E49D6-AA4A-40B0-B519-F242815DB481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814BC8F2-3D44-4865-A35E-EA030812B5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814BC8F2-3D44-4865-A35E-EA030812B5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814BC8F2-3D44-4865-A35E-EA030812B5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814BC8F2-3D44-4865-A35E-EA030812B5FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
