@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Composite", "Str
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Decorator", "Structural.Decorator\Structural.Decorator.csproj", "{C68594DC-9C94-45A8-946E-55239E2041C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Mediator", "Behavioral.Mediator\Behavioral.Mediator.csproj", "{FABC70A7-E226-48C4-BF08-78F76DC24609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral.Mediator", "Behavioral.Mediator\Behavioral.Mediator.csproj", "{FABC70A7-E226-48C4-BF08-78F76DC24609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.Memento", "Behavioural.Memento\Behavioural.Memento.csproj", "{87F8D354-38AE-4FA1-8D89-87720F3C4490}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{FABC70A7-E226-48C4-BF08-78F76DC24609}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FABC70A7-E226-48C4-BF08-78F76DC24609}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FABC70A7-E226-48C4-BF08-78F76DC24609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F8D354-38AE-4FA1-8D89-87720F3C4490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F8D354-38AE-4FA1-8D89-87720F3C4490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F8D354-38AE-4FA1-8D89-87720F3C4490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F8D354-38AE-4FA1-8D89-87720F3C4490}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
