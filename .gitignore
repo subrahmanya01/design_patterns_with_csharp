@@ -23,3 +23,5 @@
 /Structural.Composite/obj
 /Structural.Decorator/bin/Debug/net8.0
 /Structural.Decorator/obj
+/Behavioral.Mediator/obj
+/Behavioral.Mediator/bin/Debug/net8.0
