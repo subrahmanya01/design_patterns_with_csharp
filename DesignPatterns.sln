@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.Memento", "Beha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.ChainOfResposibility", "Behavioural.ChainOfResposibility\Behavioural.ChainOfResposibility.csproj", "{00152384-ED93-4545-A4FD-A7A61CE63785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.Iterator", "Behavioural.Iterator\Behavioural.Iterator.csproj", "{F77EA56A-5D02-4CB4-B4BC-185674028D25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioural.Iterator", "Behavioural.Iterator\Behavioural.Iterator.csproj", "{F77EA56A-5D02-4CB4-B4BC-185674028D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioural.Command", "Behavioural.Command\Behavioural.Command.csproj", "{3FC1009E-46AA-4BCC-B2E0-F32F821B639B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{F77EA56A-5D02-4CB4-B4BC-185674028D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F77EA56A-5D02-4CB4-B4BC-185674028D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F77EA56A-5D02-4CB4-B4BC-185674028D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC1009E-46AA-4BCC-B2E0-F32F821B639B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC1009E-46AA-4BCC-B2E0-F32F821B639B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC1009E-46AA-4BCC-B2E0-F32F821B639B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC1009E-46AA-4BCC-B2E0-F32F821B639B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
