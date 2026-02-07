@@ -14,7 +14,8 @@ Creational patterns deal with object creation mechanisms, trying to create objec
 **Implemented Patterns:**
 - **Builder**: Separates the construction of a complex object from its representation.
 - **Prototype**: Creates new objects by copying an existing object.
-- **Singleton**: Ensures a class has only one instance and provides a global point of access to it.
+- **Factory**: Provides an interface for creating objects without specifying their exact classes.
+- **Abstract Factory**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
 ### Structural Patterns
 Structural patterns are concerned with how classes and objects are composed to form larger structures. They help ensure that if one part of a system changes, the entire system doesn't need to change.
